@@ -528,6 +528,10 @@ main {
   line-height: 1.6;
 }
 
+.about-text strong {
+  font-weight: 800;
+}
+
 .about-text p {
   margin-bottom: 15px;
 }
