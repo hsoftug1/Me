@@ -632,7 +632,7 @@ main {
   left: 0;
   transform: translate(15px, -25px);
   background: var(--bg-gradient-onyx);
-  border-radius: 14px;
+  border-radius: px;
   box-shadow: var(--shadow-1);
 }
 
@@ -1609,7 +1609,7 @@ textarea.form-input::-webkit-resizer {
   }
 
   .avatar-box {
-    border-radius: 30px;
+    border-radius: 100px;
   }
 
   .avatar-box img {
